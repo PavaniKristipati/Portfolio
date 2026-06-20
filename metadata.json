@@ -1,0 +1,6 @@
+{
+  "name": "Pavani Kristipati Portfolio",
+  "description": "Professional developer portfolio website for Pavani Kristipati, featuring interactive project highlights, educational timeline, animated skills meters, dark/light mode toggle, and credential displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
